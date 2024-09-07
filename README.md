@@ -1,4 +1,4 @@
-# <img height=40 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/> Awesome-Video2Music
+# <img height=40 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/> Awesome-Video2Audio
 About Awesome-Video2Audio: a curated list of Video to Audio Generation
 
 ##  Paper List
