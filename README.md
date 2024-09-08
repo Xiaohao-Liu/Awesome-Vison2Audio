@@ -11,20 +11,20 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 2024 June. VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling, HKUST, Microsoft Research Asia.  [🔗 Code](https://github.com/ZeyueT/VidMuse/) Datasets (V2M).
 - 2024 May. Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation [image2audio]. [🌐 Demo](https://docs.google.com/presentation/d/1ZtC0SeblKkut4XJcRaDsSTuCRIXB3ypxmSi7HTY3IyQ/edit#slide=id.g2cca3e60f2e_1_118) Datasets (VGGSound)
 - 2024 Feb. Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion  Latent Aligners, HKUST, CVPR'24. [🌐 Demo](https://yzxing87.github.io/Seeing-and-Hearing/) [🔗 Code](https://github.com/yzxing87/Seeing-and-Hearing) Datasets (VGGSound)
-- 2024 V2Meow: Meowing to the Visual Beat via Video-to-Music Generation, Google. AAAI'24. [🔗 Code](https://google-research.github.io/noise2music/v2meow/) Dataset (MV100K)
+- 2024 V2Meow: Meowing to the Visual Beat via Video-to-Music Generation, Google. AAAI'24. [🌐 Demo](https://google-research.github.io/noise2music/v2meow/) Dataset (MV100K)
 - 2024 Diff-BGM: A Diffusion Model for Video Background Music Generation, PKU, CVPR'24. [🔗 Code](https://github.com/sizhelee/Diff-BGM) Datasets (BGM909)
 
 ### 2023
-- 2023 Aug. Video Background Music Generation: Dataset, Method and Evaluation, Beihang University, ICCV'23. [🔗 Code](https://github.com/zhuole1025/SymMV)
-- 2023 Feb. Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation, Illinois Institute of Technology, ICLR'23. [🌐 Demo](https://l-yezhu.github.io/CDCD/) [🔗 Code](https://github.com/L-YeZhu/CDCD)
-- 2023 MM-Diffusion: Learning Multi-Modal Diffusion Models for  Joint Audio and Video Generation, Renmin University of China CVPR'23. [🔗 Code](https://github.com/researchmm/MM-Diffusion)
+- 2023 Aug. Video Background Music Generation: Dataset, Method and Evaluation, Beihang University, ICCV'23. [🔗 Code](https://github.com/zhuole1025/SymMV) Datasets (SymMV)
+- 2023 Feb. Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation, Illinois Institute of Technology, ICLR'23. [🌐 Demo](https://l-yezhu.github.io/CDCD/) [🔗 Code](https://github.com/L-YeZhu/CDCD) Datasets (AIST++, Tiktok Dance-Music)
+- 2023 MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation, Renmin University of China CVPR'23. [🔗 Code](https://github.com/researchmm/MM-Diffusion) Datasets (Landscape, AIST++)
 
 ### 2022 
-- 2022 Jul. Quantized GAN for Complex  Music Generation from Dance Videos, Illinois Institute of Technology, ECCV'22. [🌐 Demo](https://l-yezhu.github.io/D2M-GAN/) [🔗 Code](https://github.com/L-YeZhu/D2M-GAN)
+- 2022 Jul. Quantized GAN for Complex Music Generation from Dance Videos, Illinois Institute of Technology, ECCV'22. [🌐 Demo](https://l-yezhu.github.io/D2M-GAN/) [🔗 Code](https://github.com/L-YeZhu/D2M-GAN) Datasets (AIST++, Tiktok Dance-Music)
 
 ### 2021
-- 2021 Nov. Video Background Music Generation with Controllable Music Transformer, Beihang University, MM'21. [🌐 Demo](https://wzk1015.github.io/cmt/) [🔗 Code](https://github.com/wzk1015/video-bgm-generation)
-
+- 2021 Nov. Video Background Music Generation with Controllable Music Transformer, Beihang University, MM'21. [🌐 Demo](https://wzk1015.github.io/cmt/) [🔗 Code](https://github.com/wzk1015/video-bgm-generation) 🌟
+  
 ### 2020
 - 2020 Jul. Generating Visually Aligned Sound from Videos, South China University of Technology, TIP'20. [🌐 Demo](https://www.youtube.com/watch?v=fI_h5mZG7bg) [🔗 Code](https://github.com/PeihaoChen/regnet) 
 - 2020 Jul. Foley Music: Learning to Generate  Music from Videos, MIT.
@@ -61,6 +61,8 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 
 ## Evaluation Metrics
 
-- [Frechet Audio Distance (FAD) (VGGish/PANNs feature extractor), KL](https://github.com/haoheliu/audioldm_eval)
+- [Frechet Audio Distance, KL](https://github.com/haoheliu/audioldm_eval)
 - [Density, Coverage](https://github.com/clovaai/generative-evaluation-prdc)
+- Video-Music CLIP (Precision)/CLIPScore
+- [Music Quality (mgeval)](https://github.com/RichardYang40148/mgeval): Rhythms, Genre, Coherence, Quality ....
 - [ImagebindScore](https://github.com/facebookresearch/ImageBind)
