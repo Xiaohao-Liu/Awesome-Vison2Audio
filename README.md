@@ -14,10 +14,13 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 2024 V2Meow: Meowing to the Visual Beat via Video-to-Music Generation, Google. AAAI'24. [🌐 Demo](https://google-research.github.io/noise2music/v2meow/) Dataset (MV100K)
 - 2024 Diff-BGM: A Diffusion Model for Video Background Music Generation, PKU, CVPR'24. [🔗 Code](https://github.com/sizhelee/Diff-BGM) Datasets (BGM909)
 - 2024 Video2Music: Suitable music generation from videos using an Affective Multimodal Transformer model, SUTD, EXPERT SYST APPL'249. [🔗 Code](https://github.com/AMAAI-Lab/Video2Music). Datasets (MuVi-Sync)
+- 2024 V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models, Dolby, AAAI'24. [🌐 Demo](https://v2a-mapper.github.io/)
+
 ### 2023
 - 2023 Aug. Video Background Music Generation: Dataset, Method and Evaluation, Beihang University, ICCV'23. [🔗 Code](https://github.com/zhuole1025/SymMV) Datasets (SymMV)
 - 2023 Feb. Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation, Illinois Institute of Technology, ICLR'23. [🌐 Demo](https://l-yezhu.github.io/CDCD/) [🔗 Code](https://github.com/L-YeZhu/CDCD) Datasets (AIST++, Tiktok Dance-Music)
 - 2023 MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation, Renmin University of China CVPR'23. [🔗 Code](https://github.com/researchmm/MM-Diffusion) Datasets (Landscape, AIST++)
+- 2023 Conditional Generation of Audio from Video via Foley Analogies, University of Michigan, Adobe, CVPR'23 [🌐 Demo](https://xypb.github.io/CondFoleyGen/) [🔗 Code](https://github.com/XYPB/CondFoleyGen)
 
 ### 2022 
 - 2022 Jul. Quantized GAN for Complex Music Generation from Dance Videos, Illinois Institute of Technology, ECCV'22. [🌐 Demo](https://l-yezhu.github.io/D2M-GAN/) [🔗 Code](https://github.com/L-YeZhu/D2M-GAN) Datasets (AIST++, Tiktok Dance-Music)
@@ -36,6 +39,9 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 ### 2018
 - 2018 Jun. Visual to Sound: Generating Natural Sound for Videos in the Wild, University of North Carolina, CVPR'18. 
 - 2018, Visually Indicated Sound Generation by Perceptually Optimized Classification, University of Southern California, ECCV MULA workshop'18. [🔗 Code](https://github.com/kanchen-usc/VIG)
+
+### 2016
+- 2016 Visually Indicated Sounds, MIT, CVPR'16. [🌐 Demo](https://andrewowens.com/vis/) [🔗 Code](https://github.com/GeorgeEfstathiadis/Visually-Indicated-Sounds)
 
 ## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"/> Survey
 - 2024 Aug. Foundation Models for Music: A Survey, Queen Mary University of London.
