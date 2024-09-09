@@ -1,7 +1,7 @@
-# <img height=40 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/> Awesome-Video2Audio
+# <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/> Awesome-Video2Audio
 About Awesome-Video2Audio: a curated list of Video to Audio Generation
 
-##  Paper List
+##  <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"/> Paper List
 
 ### 2024
 - 2024 Jul. FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. Shanghai Artificial Intelligence Laboratory, Chinese University of Hong Kong, Shenzhen. [🌐 Demo](https://foleycrafter.github.io/) [🔗 Code](https://github.com/open-mmlab/FoleyCrafter) [🤗 HF](https://huggingface.co/ymzhang319/FoleyCrafter) Datasets (VGGSound, AVSync15)
@@ -37,7 +37,7 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 2018 Jun. Visual to Sound: Generating Natural Sound for Videos in the Wild, University of North Carolina, CVPR'18. 
 - 2018, Visually Indicated Sound Generation by Perceptually Optimized Classification, University of Southern California, ECCV MULA workshop'18. [🔗 Code](https://github.com/kanchen-usc/VIG)
 
-## Survey
+## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"/> Survey
 - 2024 Aug. Foundation Models for Music: A Survey, Queen Mary University of London.
 - 2024 Jun. LLMs Meet Multimodal Generation and Editing:  A Survey, HKUST. [🔗 Code](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation). 
 
