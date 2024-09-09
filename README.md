@@ -53,8 +53,7 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 2022 Aug. Learning in Audio-visual Context: A Review, Analysis, and New Perspective, Renmin University of China.
 - 2023 Sep. Sparks of Large Audio Models: A Survey and Outlook, Queensland University of Technology.
 
-
-## Datasets
+## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png"/> Datasets
 
 - 🎶 V2M (Unpublished): VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling. (Movie trailer, 190K for training, 20K for finetuning, 300 for benchmarking).
 - 🔉 [VGGSound](https://huggingface.co/datasets/Speech-Audio/VGGSOUND/tree/main): Vggsound: A large-scale audio-visual dataset. ICASSP'20
@@ -70,7 +69,8 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 🎶 [AIST](https://aistdancedb.ongaaccel.jp/). Dance-to-Music
 - 🎶 [MuVi-Sync](https://zenodo.org/records/10057093). Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model
 
-## Evaluation Metrics
+
+## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png"/> Evaluation Metrics
 
 - [Frechet Audio Distance, KL](https://github.com/haoheliu/audioldm_eval)
 - [Density, Coverage](https://github.com/clovaai/generative-evaluation-prdc)
