@@ -4,23 +4,23 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 ##  <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"/> Paper List
 
 ### 2024
-- 2024 Jul. FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. Shanghai Artificial Intelligence Laboratory, Chinese University of Hong Kong, Shenzhen. [🌐 Demo](https://foleycrafter.github.io/) [🔗 Code](https://github.com/open-mmlab/FoleyCrafter) [🤗 HF](https://huggingface.co/ymzhang319/FoleyCrafter) Datasets (VGGSound, AVSync15)
-- 2024 Jul. FRIEREN: Efficient Video-to-Audio Generation with Rectified Flow Matching. ZheJiang University. [🌐 Demo](https://frieren-v2a.github.io/) Datastes (VGGSound)
-- 2024 Jul. Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity. Dolby Lab. ECCV'24. [🌐 Demo](https://maskvat.github.io/) Datastes (VGGSound)
-- 2024 Jul. Read, Watch and Scream! Sound Generation from Text and Video, NAVER. [🌐 Demo](https://naver-ai.github.io/rewas/) Datastes (VGGSound)
+- 2024 Jul. 🔉 FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. Shanghai Artificial Intelligence Laboratory, Chinese University of Hong Kong, Shenzhen. [🌐 Demo](https://foleycrafter.github.io/) [🔗 Code](https://github.com/open-mmlab/FoleyCrafter) [🤗 HF](https://huggingface.co/ymzhang319/FoleyCrafter) Datasets (VGGSound, AVSync15)
+- 2024 Jul. 🔉 FRIEREN: Efficient Video-to-Audio Generation with Rectified Flow Matching. ZheJiang University. [🌐 Demo](https://frieren-v2a.github.io/) Datastes (VGGSound)
+- 2024 Jul. 🔉 Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity. Dolby Lab. ECCV'24. [🌐 Demo](https://maskvat.github.io/) Datastes (VGGSound)
+- 2024 Jul. 🔉 Read, Watch and Scream! Sound Generation from Text and Video, NAVER. [🌐 Demo](https://naver-ai.github.io/rewas/) Datastes (VGGSound)
 - 2024 June. VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling, HKUST, Microsoft Research Asia.  [🔗 Code](https://github.com/ZeyueT/VidMuse/) Datasets (V2M).
-- 2024 May. Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation, Sony. [image2audio]. [🌐 Demo](https://docs.google.com/presentation/d/1ZtC0SeblKkut4XJcRaDsSTuCRIXB3ypxmSi7HTY3IyQ/edit#slide=id.g2cca3e60f2e_1_118) Datasets (VGGSound)
-- 2024 Feb. Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion  Latent Aligners, HKUST, CVPR'24. [🌐 Demo](https://yzxing87.github.io/Seeing-and-Hearing/) [🔗 Code](https://github.com/yzxing87/Seeing-and-Hearing) Datasets (VGGSound)
+- 2024 May. 🔉 Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation, Sony. [image2audio]. [🌐 Demo](https://docs.google.com/presentation/d/1ZtC0SeblKkut4XJcRaDsSTuCRIXB3ypxmSi7HTY3IyQ/edit#slide=id.g2cca3e60f2e_1_118) Datasets (VGGSound)
+- 2024 Feb. 🔉 Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion  Latent Aligners, HKUST, CVPR'24. [🌐 Demo](https://yzxing87.github.io/Seeing-and-Hearing/) [🔗 Code](https://github.com/yzxing87/Seeing-and-Hearing) Datasets (VGGSound)
 - 2024 V2Meow: Meowing to the Visual Beat via Video-to-Music Generation, Google. AAAI'24. [🌐 Demo](https://google-research.github.io/noise2music/v2meow/) Dataset (MV100K)
 - 2024 Diff-BGM: A Diffusion Model for Video Background Music Generation, PKU, CVPR'24. [🔗 Code](https://github.com/sizhelee/Diff-BGM) Datasets (BGM909)
 - 2024 Video2Music: Suitable music generation from videos using an Affective Multimodal Transformer model, SUTD, EXPERT SYST APPL'249. [🔗 Code](https://github.com/AMAAI-Lab/Video2Music). Datasets (MuVi-Sync)
-- 2024 V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models, Dolby, AAAI'24. [🌐 Demo](https://v2a-mapper.github.io/)
+- 2024 🔉 V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models, Dolby, AAAI'24. [🌐 Demo](https://v2a-mapper.github.io/)
 
 ### 2023
 - 2023 Aug. Video Background Music Generation: Dataset, Method and Evaluation, Beihang University, ICCV'23. [🔗 Code](https://github.com/zhuole1025/SymMV) Datasets (SymMV)
 - 2023 Feb. Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation, Illinois Institute of Technology, ICLR'23. [🌐 Demo](https://l-yezhu.github.io/CDCD/) [🔗 Code](https://github.com/L-YeZhu/CDCD) Datasets (AIST++, Tiktok Dance-Music)
-- 2023 MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation, Renmin University of China CVPR'23. [🔗 Code](https://github.com/researchmm/MM-Diffusion) Datasets (Landscape, AIST++)
-- 2023 Conditional Generation of Audio from Video via Foley Analogies, University of Michigan, Adobe, CVPR'23 [🌐 Demo](https://xypb.github.io/CondFoleyGen/) [🔗 Code](https://github.com/XYPB/CondFoleyGen)
+- 2023 🔉 MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation, Renmin University of China CVPR'23. [🔗 Code](https://github.com/researchmm/MM-Diffusion) Datasets (Landscape, AIST++)
+- 2023 🔉 Conditional Generation of Audio from Video via Foley Analogies, University of Michigan, Adobe, CVPR'23 [🌐 Demo](https://xypb.github.io/CondFoleyGen/) [🔗 Code](https://github.com/XYPB/CondFoleyGen)
 
 ### 2022 
 - 2022 Jul. Quantized GAN for Complex Music Generation from Dance Videos, Illinois Institute of Technology, ECCV'22. [🌐 Demo](https://l-yezhu.github.io/D2M-GAN/) [🔗 Code](https://github.com/L-YeZhu/D2M-GAN) Datasets (AIST++, Tiktok Dance-Music)
@@ -29,19 +29,19 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 2021 Nov. Video Background Music Generation with Controllable Music Transformer, Beihang University, MM'21. [🌐 Demo](https://wzk1015.github.io/cmt/) [🔗 Code](https://github.com/wzk1015/video-bgm-generation) 🌟
   
 ### 2020
-- 2020 Jul. Generating Visually Aligned Sound from Videos, South China University of Technology, TIP'20. [🌐 Demo](https://www.youtube.com/watch?v=fI_h5mZG7bg) [🔗 Code](https://github.com/PeihaoChen/regnet) 
+- 2020 Jul. 🔉 Generating Visually Aligned Sound from Videos, South China University of Technology, TIP'20. [🌐 Demo](https://www.youtube.com/watch?v=fI_h5mZG7bg) [🔗 Code](https://github.com/PeihaoChen/regnet) 
 - 2020 Jul. Foley Music: Learning to Generate  Music from Videos, MIT.
-- 2020 Jun. Audeo: Audio Generation for a Silent Performance Video, University of Washington.
+- 2020 Jun. 🔉 Audeo: Audio Generation for a Silent Performance Video, University of Washington.
 
 ### 2019
 - 2019, AIST Dance Video Database: Multi-Genre, Multi-Dancer, and Multi-Camera Database for Dance Information Processing, AIST, ISMIR'19. 
 
 ### 2018
-- 2018 Jun. Visual to Sound: Generating Natural Sound for Videos in the Wild, University of North Carolina, CVPR'18. 
-- 2018, Visually Indicated Sound Generation by Perceptually Optimized Classification, University of Southern California, ECCV MULA workshop'18. [🔗 Code](https://github.com/kanchen-usc/VIG)
+- 2018 Jun. 🔉 Visual to Sound: Generating Natural Sound for Videos in the Wild, University of North Carolina, CVPR'18. 
+- 2018, 🔉 Visually Indicated Sound Generation by Perceptually Optimized Classification, University of Southern California, ECCV MULA workshop'18. [🔗 Code](https://github.com/kanchen-usc/VIG)
 
 ### 2016
-- 2016 Visually Indicated Sounds, MIT, CVPR'16. [🌐 Demo](https://andrewowens.com/vis/) [🔗 Code](https://github.com/GeorgeEfstathiadis/Visually-Indicated-Sounds)
+- 2016 🔉 Visually Indicated Sounds, MIT, CVPR'16. [🌐 Demo](https://andrewowens.com/vis/) [🔗 Code](https://github.com/GeorgeEfstathiadis/Visually-Indicated-Sounds)
 
 ## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"/> Survey
 - 2024 Aug. Foundation Models for Music: A Survey, Queen Mary University of London.
@@ -51,16 +51,16 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 ## Datasets
 
 - V2M (Unpublished): VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling. (Movie trailer, 190K for training, 20K for finetuning, 300 for benchmarking).
-- [VGGSound](https://huggingface.co/datasets/Speech-Audio/VGGSOUND/tree/main): Vggsound: A large-scale audio-visual dataset. ICASSP'20
+- [🔉 VGGSound](https://huggingface.co/datasets/Speech-Audio/VGGSOUND/tree/main): Vggsound: A large-scale audio-visual dataset. ICASSP'20
 - Landscape
 - TikTok Dance-Music
-- AVSync15: Audio-synchronized visual animation.
+- 🔉 AVSync15: Audio-synchronized visual animation.
 - BGM909. Piano version music.
 - MV100K.
 - BGM909: Diff-BGM: A Diffusion Model for Video Background Music Generation
 - MMtrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions.
 - [SymMV](https://github.com/zhuole1025/SymMV/tree/main/dataset): Video Background Music Generation: Dataset, Method and Evaluation.
-- [VAS](https://drive.google.com/file/d/14birixmH7vwIWKxCHI0MIWCcZyohF59g/view): Generating Visually Aligned Sound from Videos.
+- [🔉 VAS](https://drive.google.com/file/d/14birixmH7vwIWKxCHI0MIWCcZyohF59g/view): Generating Visually Aligned Sound from Videos.
 - [AIST++](https://google.github.io/aistplusplus_dataset/download.html). Dance-to-Music
 - [AIST](https://aistdancedb.ongaaccel.jp/). Dance-to-Music
 - [MuVi-Sync](https://zenodo.org/records/10057093). Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model
