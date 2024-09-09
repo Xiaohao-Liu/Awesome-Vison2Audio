@@ -57,7 +57,7 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - [VAS](https://drive.google.com/file/d/14birixmH7vwIWKxCHI0MIWCcZyohF59g/view): Generating Visually Aligned Sound from Videos.
 - [AIST++](https://google.github.io/aistplusplus_dataset/download.html). Dance-to-Music
 - [AIST](https://aistdancedb.ongaaccel.jp/). Dance-to-Music
-
+- [MuVi-Sync](https://zenodo.org/records/10057093). Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model
 
 ## Evaluation Metrics
 
