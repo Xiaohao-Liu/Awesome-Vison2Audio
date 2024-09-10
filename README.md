@@ -24,7 +24,7 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 2023 🔉 MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation, Renmin University of China CVPR'23. [🔗 Code](https://github.com/researchmm/MM-Diffusion) Datasets (Landscape, AIST++)
 - 2023 🔉 Conditional Generation of Audio from Video via Foley Analogies, University of Michigan, Adobe, CVPR'23 [🌐 Demo](https://xypb.github.io/CondFoleyGen/) [🔗 Code](https://github.com/XYPB/CondFoleyGen)
 - 2023 🎶 Long-Term Rhythmic Video Soundtracker,Shanghai Artificial Intelligence Laboratory, ICML'23 [🌐 Demo](https://justinyuu.github.io/LORIS/) [🔗 Code](https://github.com/OpenGVLab/LORIS)
-- 2023 🎶 CMMD: Contrastive Multi-Modal Diffusion for Video-Audio Conditional Modeling, Microsoft
+- 2023 🔉 CMMD: Contrastive Multi-Modal Diffusion for Video-Audio Conditional Modeling, Microsoft
 
 ### 2022 
 - 2022 Jul. 🎶 Quantized GAN for Complex Music Generation from Dance Videos, Illinois Institute of Technology, ECCV'22. [🌐 Demo](https://l-yezhu.github.io/D2M-GAN/) [🔗 Code](https://github.com/L-YeZhu/D2M-GAN) Datasets (AIST++, Tiktok Dance-Music)
@@ -58,11 +58,11 @@ About Awesome-Video2Audio: a curated list of Video to Audio Generation
 - 🎶 V2M (Unpublished): VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling. (Movie trailer, 190K for training, 20K for finetuning, 300 for benchmarking).
 - 🔉 [VGGSound](https://huggingface.co/datasets/Speech-Audio/VGGSOUND/tree/main): Vggsound: A large-scale audio-visual dataset. ICASSP'20
 - Landscape
-- 🎶 TikTok Dance-Music
+- 🎶 [Tiktok Dance Dataset](https://www.kaggle.com/datasets/yasaminjafarian/tiktokdataset)
 - 🔉 AVSync15: Audio-synchronized visual animation.
-- 🎶 BGM909. Piano version music. Diff-BGM: A Diffusion Model for Video Background Music Generation
-- 🎶 MV100K.
-- 🎶 MMtrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions.
+- 🎶 [BGM909](https://sizhelee.github.io/publication/bgm909.html). Piano version music. Diff-BGM: A Diffusion Model for Video Background Music Generation
+- 🎶 MV100K: V2Meow
+- 🎶 [MMTrailer](https://huggingface.co/datasets/litwell/MMTrail-20M): A Multimodal Trailer Video Dataset with Language and Music Descriptions.
 - 🎶 [SymMV](https://github.com/zhuole1025/SymMV/tree/main/dataset): Video Background Music Generation: Dataset, Method and Evaluation.
 - 🔉 [VAS](https://drive.google.com/file/d/14birixmH7vwIWKxCHI0MIWCcZyohF59g/view): Generating Visually Aligned Sound from Videos.
 - 🎶 [AIST++](https://google.github.io/aistplusplus_dataset/download.html). Dance-to-Music
