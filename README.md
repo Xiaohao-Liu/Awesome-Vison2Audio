@@ -19,6 +19,7 @@ A curated list of Video to Audio Generation
 - 2024 🎶 Video2Music: Suitable music generation from videos using an Affective Multimodal Transformer model, SUTD, EXPERT SYST APPL'249. [🔗 Code](https://github.com/AMAAI-Lab/Video2Music). Datasets (MuVi-Sync)
 - 2024 🔉 V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models, Dolby, AAAI'24. [🌐 Demo](https://v2a-mapper.github.io/)
 - 2024 🎶 DanceComposer: Dance-to-Music Generation Using a Progressive Conditional Music Generator, Sun Yat-sen University, TMM'24
+- 2024 🔉 Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event Condition For Foley Sound, KAIST. [🌐 Demo](https://jnwnlee.github.io/video-foley-demo/)
 
 ### 2023
 - 2023 Aug. 🎶 Video Background Music Generation: Dataset, Method and Evaluation, Beihang University, ICCV'23. [🔗 Code](https://github.com/zhuole1025/SymMV) Datasets (SymMV)
