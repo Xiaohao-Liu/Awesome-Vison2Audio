@@ -14,12 +14,15 @@ A curated list of Video to Audio Generation
 - 2024 Feb. 🔉 Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion  Latent Aligners, HKUST, CVPR'24. [🌐 Demo](https://yzxing87.github.io/Seeing-and-Hearing/) [🔗 Code](https://github.com/yzxing87/Seeing-and-Hearing) Datasets (VGGSound)
 - 2024 🎶 V2Meow: Meowing to the Visual Beat via Video-to-Music Generation, Google. AAAI'24. [🌐 Demo](https://google-research.github.io/noise2music/v2meow/) Dataset (MV100K)
 - 2024 🎶 Diff-BGM: A Diffusion Model for Video Background Music Generation, PKU, CVPR'24. [🔗 Code](https://github.com/sizhelee/Diff-BGM) Datasets (BGM909)
+- 2024 🔉 From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation, University of Washington, ICML'24. 
+- 2024 🔉 SonicVisionLM: Playing Sound with Vision Language Models, Shanghai University, CVPR'24 [🌐 Demo](https://yusiissy.github.io/SonicVisionLM.github.io/)
 - 2024 🎶 Video2Music: Suitable music generation from videos using an Affective Multimodal Transformer model, SUTD, EXPERT SYST APPL'249. [🔗 Code](https://github.com/AMAAI-Lab/Video2Music). Datasets (MuVi-Sync)
 - 2024 🔉 V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models, Dolby, AAAI'24. [🌐 Demo](https://v2a-mapper.github.io/)
 - 2024 🎶 DanceComposer: Dance-to-Music Generation Using a Progressive Conditional Music Generator, Sun Yat-sen University, TMM'24
 
 ### 2023
 - 2023 Aug. 🎶 Video Background Music Generation: Dataset, Method and Evaluation, Beihang University, ICCV'23. [🔗 Code](https://github.com/zhuole1025/SymMV) Datasets (SymMV)
+- 2023 Jun. 🔉 DiffFoley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models, Tsinghua University, NIPS'23. [🌐 Demo](https://diff-foley.github.io/) [🔗 Code](https://github.com/luosiallen/Diff-Foley) Datasets (VGGSound, AudioSet)
 - 2023 Feb. 🎶 Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation, Illinois Institute of Technology, ICLR'23. [🌐 Demo](https://l-yezhu.github.io/CDCD/) [🔗 Code](https://github.com/L-YeZhu/CDCD) Datasets (AIST++, Tiktok Dance-Music)
 - 2023 🔉 MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation, Renmin University of China CVPR'23. [🔗 Code](https://github.com/researchmm/MM-Diffusion) Datasets (Landscape, AIST++)
 - 2023 🔉 Conditional Generation of Audio from Video via Foley Analogies, University of Michigan, Adobe, CVPR'23 [🌐 Demo](https://xypb.github.io/CondFoleyGen/) [🔗 Code](https://github.com/XYPB/CondFoleyGen)
