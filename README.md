@@ -4,6 +4,7 @@ A curated list of Video to Audio Generation
 ##  <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"/> Paper List
 
 ### 2024
+- 2024  🎶 VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos, ByteDance, [🌐 Demo](https://genjib.github.io/project_page/VMAs/index.html)
 - 2024  🎶 MM-LDM: Multi-Modal Latent Diffusion Model for Sounding Video Generation, Institute of automation, MM'24
 - 2024 Jul. 🔉 FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. Shanghai Artificial Intelligence Laboratory, Chinese University of Hong Kong, Shenzhen. [🌐 Demo](https://foleycrafter.github.io/) [🔗 Code](https://github.com/open-mmlab/FoleyCrafter) [🤗 HF](https://huggingface.co/ymzhang319/FoleyCrafter) Datasets (VGGSound, AVSync15)
 - 2024 Jul. 🔉 FRIEREN: Efficient Video-to-Audio Generation with Rectified Flow Matching. ZheJiang University. [🌐 Demo](https://frieren-v2a.github.io/) Datastes (VGGSound)
