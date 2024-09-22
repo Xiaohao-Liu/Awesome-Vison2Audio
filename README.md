@@ -85,3 +85,4 @@ A curated list of Video to Audio Generation
 - Video-Music CLIP (Precision)/CLIPScore
 - [Music Quality (mgeval)](https://github.com/RichardYang40148/mgeval): Rhythms, Genre, Coherence, Quality ....
 - [ImagebindScore](https://github.com/facebookresearch/ImageBind)
+- [mir_eval](https://github.com/craffel/mir_eval)
