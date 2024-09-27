@@ -18,6 +18,7 @@ A curated list of Video to Audio Generation
 - 2024 Feb. 🔉 Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion  Latent Aligners, HKUST, CVPR'24. [🌐 Demo](https://yzxing87.github.io/Seeing-and-Hearing/) [🔗 Code](https://github.com/yzxing87/Seeing-and-Hearing) Datasets (VGGSound)
 - 2024 🎶 V2Meow: Meowing to the Visual Beat via Video-to-Music Generation, Google. AAAI'24. [🌐 Demo](https://google-research.github.io/noise2music/v2meow/) Dataset (MV100K)
 - 2024 🎶 Diff-BGM: A Diffusion Model for Video Background Music Generation, PKU, CVPR'24. [🔗 Code](https://github.com/sizhelee/Diff-BGM) Datasets (BGM909)
+- 2024 🎶 MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models, Adobe, CVPR'24. [🔗 Code](https://github.com/schowdhury671/melfusion/tree/main) [🌐 Demo](https://schowdhury671.github.io/melfusion_cvpr2024/)
 - 2024 🔉 From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation, University of Washington, ICML'24. 
 - 2024 🔉 SonicVisionLM: Playing Sound with Vision Language Models, Shanghai University, CVPR'24 [🌐 Demo](https://yusiissy.github.io/SonicVisionLM.github.io/)
 - 2024 🎶 Video2Music: Suitable music generation from videos using an Affective Multimodal Transformer model, SUTD, EXPERT SYST APPL'249. [🔗 Code](https://github.com/AMAAI-Lab/Video2Music). Datasets (MuVi-Sync)
