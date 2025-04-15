@@ -58,6 +58,7 @@ A curated list of Vison to Audio Generation
 - 2016 🔉 Visually Indicated Sounds, MIT, CVPR'16. [🌐 Demo](https://andrewowens.com/vis/) [🔗 Code](https://github.com/GeorgeEfstathiadis/Visually-Indicated-Sounds)
 
 ## <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"/> Survey
+- 2025 Mar. Vision-to-Music Generation: A Survey.  [🔗 Code](https://github.com/wzk1015/Awesome-Vision-to-Music-Generation).
 - 2024 Aug. Foundation Models for Music: A Survey, Queen Mary University of London.
 - 2024 Jun. LLMs Meet Multimodal Generation and Editing:  A Survey, HKUST. [🔗 Code](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation).
 - 2022 Aug. Learning in Audio-visual Context: A Review, Analysis, and New Perspective, Renmin University of China.
