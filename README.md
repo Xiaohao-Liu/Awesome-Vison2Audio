@@ -6,6 +6,15 @@ A curated list of Vison to Audio Generation
 
 ##  <img height=34 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"/> Paper List
 
+
+### 2025
+
+- 2025 🎶 GVMGen: A General Video-to-Music Generation Model with Hierarchical Attentions
+- 2025 🎶 AudioX: Diffusion Transformer for Anything-to-Audio Generation
+- 2025 🎶 FilmComposer: LLM-Driven Music Production for Silent Film Clips, CVPR'25
+- 2025 🎶 HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization, CVPR'25
+- 2025 🎶 Extending Visual Dynamics for Video-to-Music Generation
+
 ### 2024
 - 2024  🎶 VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos, ByteDance, [🌐 Demo](https://genjib.github.io/project_page/VMAs/index.html)
 - 2024  🎶 MM-LDM: Multi-Modal Latent Diffusion Model for Sounding Video Generation, Institute of automation, MM'24
