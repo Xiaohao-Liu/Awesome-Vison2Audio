@@ -35,6 +35,7 @@ A curated list of Vison to Audio Generation
 - 2024 🎶 DanceComposer: Dance-to-Music Generation Using a Progressive Conditional Music Generator, Sun Yat-sen University, TMM'24
 - 2024 🔉 Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event Condition For Foley Sound, KAIST. [🌐 Demo](https://jnwnlee.github.io/video-foley-demo/)
 - 2024 🔉 LoVA: Long-form Video-to-Audio Generation, RUC. Datasets(AudioSet, VGGSound, UnAV100)
+- 2024 🔉 Tell What You Hear From What You See - Video to Audio Generation Through Text, University of Washington, NeurIPS'24 [🔗 Code](https://github.com/DragonLiu1995/multimodal-llm-for-audio-gen)
 
 ### 2023
 - 2023 Aug. 🎶 Video Background Music Generation: Dataset, Method and Evaluation, Beihang University, ICCV'23. [🔗 Code](https://github.com/zhuole1025/SymMV) Datasets (SymMV)
@@ -50,6 +51,7 @@ A curated list of Vison to Audio Generation
 
 ### 2021
 - 2021 Nov. 🎶 Video Background Music Generation with Controllable Music Transformer, Beihang University, MM'21. [🌐 Demo](https://wzk1015.github.io/cmt/) [🔗 Code](https://github.com/wzk1015/video-bgm-generation) 🌟
+- 2021 🔉 How Does it Sound? Generation of Rhythmic Soundtracks for Human Movement Videos. University of Washington, NeurIPS'21 [🔗 Code](https://github.com/shlizee/RhythmicNet)
   
 ### 2020
 - 2020 Jul. 🔉 Generating Visually Aligned Sound from Videos, South China University of Technology, TIP'20. [🌐 Demo](https://www.youtube.com/watch?v=fI_h5mZG7bg) [🔗 Code](https://github.com/PeihaoChen/regnet) 
