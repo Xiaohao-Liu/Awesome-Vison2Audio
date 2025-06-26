@@ -100,3 +100,13 @@ A curated list of Vison to Audio Generation
 - [Music Quality (mgeval)](https://github.com/RichardYang40148/mgeval): Rhythms, Genre, Coherence, Quality ....
 - [ImagebindScore](https://github.com/facebookresearch/ImageBind)
 - [mir_eval](https://github.com/craffel/mir_eval)
+
+
+## 🧩 Want to Contribute?
+
+We welcome contributions! Please feel free to submit a PR or open an issue if you'd like to add new papers, tools, or correct any mistakes.
+
+### ✅ Guidelines:
+- Add relevant papers or projects related to Vision2Audio.
+- Use consistent formatting.
+- Include links where available.
