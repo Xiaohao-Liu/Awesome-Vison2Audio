@@ -8,8 +8,8 @@ A curated list of Vison to Audio Generation
 
 
 ### 2025
-- 2025 🔉VAFlow: Video-to-Audio Generation with Cross-Modality Flow Matching, ICCV'25
-- 2025 🔉Foley-Flow: Coordinated Video-to-Audio Generation with Masked Audio-Visual Alignment and Dynamic Conditional Flows, CVPR'25
+- 2025 🔉 VAFlow: Video-to-Audio Generation with Cross-Modality Flow Matching, ICCV'25
+- 2025 🔉 Foley-Flow: Coordinated Video-to-Audio Generation with Masked Audio-Visual Alignment and Dynamic Conditional Flows, CVPR'25
 - 2025 🎶 GVMGen: A General Video-to-Music Generation Model with Hierarchical Attentions
 - 2025 🎶 AudioX: Diffusion Transformer for Anything-to-Audio Generation
 - 2025 🎶 FilmComposer: LLM-Driven Music Production for Silent Film Clips, CVPR'25
