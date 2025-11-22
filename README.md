@@ -15,6 +15,7 @@ A curated list of Vison to Audio Generation
 - 2025 🎶 FilmComposer: LLM-Driven Music Production for Silent Film Clips, CVPR'25
 - 2025 🎶 HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization, CVPR'25
 - 2025 🎶 Extending Visual Dynamics for Video-to-Music Generation
+- 2025 🔉 Synchronized Video-to-Audio Generation via Mel Quantization-Continuum Decomposition, CVPR'25
 
 ### 2024
 - 2024  🎶 VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos, ByteDance, [🌐 Demo](https://genjib.github.io/project_page/VMAs/index.html)
