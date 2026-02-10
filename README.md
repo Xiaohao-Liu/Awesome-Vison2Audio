@@ -8,14 +8,43 @@ A curated list of Vison to Audio Generation
 
 
 ### 2025
+- 2025 🔉 MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis, CVPR'25
 - 2025 🔉 VAFlow: Video-to-Audio Generation with Cross-Modality Flow Matching, ICCV'25
 - 2025 🔉 Foley-Flow: Coordinated Video-to-Audio Generation with Masked Audio-Visual Alignment and Dynamic Conditional Flows, CVPR'25
+- 2025 🔉 Synchronized Video-to-Audio Generation via Mel Quantization-Continuum Decomposition (Mel-QCD), CVPR'25
+- 2025 🔉 VinTAGe: Joint Video and Text Conditioning for Holistic Audio Generation, CVPR'25
+- 2025 🔉 MultiFoley: Video-Guided Foley Sound Generation with Multimodal Controls, CVPR'25
+- 2025 🔉 Animate and Sound an Image, CVPR'25
+- 2025 🔉 TARO: Timestep-Adaptive Representation Alignment with Onset-Aware Conditioning for Synchronized Video-to-Audio Synthesis, ICCV'25
+- 2025 🔉 ThinkSound: Chain-of-Thought Reasoning in Multimodal LLMs for Audio Generation and Editing, NeurIPS'25
+- 2025 🔉 Read, Watch and Scream! Sound Generation from Text and Video, AAAI'25
+- 2025 🔉 OmniAudio: Generating Spatial Audio from 360-degree Video, ICLR'25
+- 2025 🔉 LoVA: Long-form Video-to-Audio Generation, ICASSP'25
+- 2025 🔉 Temporally Aligned Audio for Video with Autoregression, ICASSP'25
+- 2025 🔉 TAGMO: Temporal Control Audio Generation for Multiple Visual Objects Without Training, ICASSP'25
+- 2025 🔉 MambaFoley: Foley Sound Generation Using Selective State-Space Models, ICASSP'25
+- 2025 🔉 Video-to-Audio Generation with Fine-grained Temporal Semantics, Interspeech'25
+- 2025 🔉 Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation
+- 2025 🔉 HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation
+- 2025 🔉 Tri-Ergon: Fine-grained Video-to-Audio Generation with Multi-modal Conditions and LUFS Control
+- 2025 🔉 PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation
+- 2025 🔉 DreamFoley: Scalable VLMs for High-Fidelity Video-to-Audio Generation
+- 2025 🔉 MGAudio: Model-Guided Dual-Role Alignment for High-Fidelity Open-Domain Video-to-Audio Generation
+- 2025 🔉 FoleyGRAM: Video-to-Audio Generation with GRAM-Aligned Multimodal Encoders
+- 2025 🔉 SelVA: Hear What Matters! Text-conditioned Selective Video-to-Audio Generation
+- 2025 🔉 MFM-Mapper: Efficient Video-to-Audio Generation via Multiple Foundation Models Mapper
+- 2025 🔉 SpecMaskFoley: Steering Pretrained Spectral Masked Generative Transformer Toward Synchronized Video-to-Audio Synthesis via ControlNet
+- 2025 🔉 StereoFoley: Object-Aware Stereo Audio Generation from Video
+- 2025 🔉 MMAudioSep: Taming Video-to-Audio Generative Model towards Video/Text-Queried Sound Separation
+- 2025 🔉 MDG: Training-Free Multimodal Guidance for Video to Audio Generation
+- 2025 🔉 YingSound: Video-Guided Sound Effects Generation with Multi-modal Chain-of-Thought Controls
+- 2025 🔉 Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits
 - 2025 🎶 GVMGen: A General Video-to-Music Generation Model with Hierarchical Attentions
 - 2025 🎶 AudioX: Diffusion Transformer for Anything-to-Audio Generation
 - 2025 🎶 FilmComposer: LLM-Driven Music Production for Silent Film Clips, CVPR'25
 - 2025 🎶 HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization, CVPR'25
 - 2025 🎶 Extending Visual Dynamics for Video-to-Music Generation
-- 2025 🔉 Synchronized Video-to-Audio Generation via Mel Quantization-Continuum Decomposition, CVPR'25
+- 2025 🎶 SONIQUE: Video Background Music Generation Using Unpaired Audio-Visual Data, ICASSP'25
 
 ### 2024
 - 2024  🎶 VMAs: Video-to-Music Generation via Semantic Alignment in Web Music Videos, ByteDance, [🌐 Demo](https://genjib.github.io/project_page/VMAs/index.html)
